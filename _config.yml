@@ -29,7 +29,8 @@ github:
   username: rxsh # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: username # change to your twitter username
+
 
 social:
   # Change to your full name.
@@ -42,7 +43,6 @@ social:
     - https://github.com/rxsh # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/cesar-lengua-m%C3%A1laga-028b69277/
 
 google_site_verification: # fill in to your verification string
 

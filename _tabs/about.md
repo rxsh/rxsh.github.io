@@ -4,5 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+
+I am a passionate security pentester with advanced technical skills and a solid understanding of cybersecurity risks and challenges. My experience focuses on the identification and exploitation of vulnerabilities, ensuring the robustness of systems and applications. With a proactive approach, I seek to constantly improve my skills to address emerging challenges in the world of cybersecurity.
+
+> Contact me: cesar.lengua16@gmail.com
+
+
 {: .prompt-tip }
