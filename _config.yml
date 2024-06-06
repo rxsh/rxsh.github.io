@@ -16,10 +16,10 @@ timezone:
 
 title: rxsh # the main title
 
-tagline: CyberSecurity Analyst / Ethical Hacking # it will display as the sub-title
+tagline: Penetration Tester / Ethical Hacking # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  CyberSecurity Analyst / Ethical Hacking
+  Penetration Tester / Ethical Hacking
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
