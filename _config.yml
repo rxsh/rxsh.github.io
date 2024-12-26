@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://store.playstation.com/store/api/chihiro/00_09_000/container/PE/es/19/UP1415-CUSA03724_00-AV00000000000153/image?w=320&h=320&bg_color=000000&opacity=100&_version=00_09_000
+avatar: file:///C:/Users/cesar/Pictures/rxsh%20yt/fotoperfil1.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
